@@ -1,0 +1,32 @@
+<palette>
+    <url> http://paletton.com/#uid=73d0u0k5qgb2NnT41jT74c8bJ8X
+    </url>
+    <colorset id="primary" title="Primary color">
+        <color id="primary-0" nr="0" rgb="44524F" r="68" g="82" b="79" r0="0.267" g0="0.322" b0="0.31"/>
+        <color id="primary-1" nr="1" rgb="6E7977" r="110" g="121" b="119" r0="0.431" g0="0.475" b0="0.467"/>
+        <color id="primary-2" nr="2" rgb="586462" r="88" g="100" b="98" r0="0.345" g0="0.392" b0="0.384"/>
+        <color id="primary-3" nr="3" rgb="303D3B" r="48" g="61" b="59" r0="0.188" g0="0.239" b0="0.231"/>
+        <color id="primary-4" nr="4" rgb="1D2D2A" r="29" g="45" b="42" r0="0.114" g0="0.176" b0="0.165"/>
+    </colorset>
+    <colorset id="secondary-1" title="Secondary color (1)">
+        <color id="secondary-1-0" nr="0" rgb="484D55" r="72" g="77" b="85" r0="0.282" g0="0.302" b0="0.333"/>
+        <color id="secondary-1-1" nr="1" rgb="74787E" r="116" g="120" b="126" r0="0.455" g0="0.471" b0="0.494"/>
+        <color id="secondary-1-2" nr="2" rgb="5D6169" r="93" g="97" b="105" r0="0.365" g0="0.38" b0="0.412"/>
+        <color id="secondary-1-3" nr="3" rgb="333840" r="51" g="56" b="64" r0="0.2" g0="0.22" b0="0.251"/>
+        <color id="secondary-1-4" nr="4" rgb="1F262F" r="31" g="38" b="47" r0="0.122" g0="0.149" b0="0.184"/>
+    </colorset>
+    <colorset id="secondary-2" title="Secondary color (2)">
+        <color id="secondary-2-0" nr="0" rgb="81796B" r="129" g="121" b="107" r0="0.506" g0="0.475" b0="0.42"/>
+        <color id="secondary-2-1" nr="1" rgb="BEB8AE" r="190" g="184" b="174" r0="0.745" g0="0.722" b0="0.682"/>
+        <color id="secondary-2-2" nr="2" rgb="9E978B" r="158" g="151" b="139" r0="0.62" g0="0.592" b0="0.545"/>
+        <color id="secondary-2-3" nr="3" rgb="61594B" r="97" g="89" b="75" r0="0.38" g0="0.349" b0="0.294"/>
+        <color id="secondary-2-4" nr="4" rgb="473E2D" r="71" g="62" b="45" r0="0.278" g0="0.243" b0="0.176"/>
+    </colorset>
+    <colorset id="complement" title="Complement color">
+        <color id="complement-0" nr="0" rgb="81746B" r="129" g="116" b="107" r0="0.506" g0="0.455" b0="0.42"/>
+        <color id="complement-1" nr="1" rgb="BEB4AE" r="190" g="180" b="174" r0="0.745" g0="0.706" b0="0.682"/>
+        <color id="complement-2" nr="2" rgb="9E938B" r="158" g="147" b="139" r0="0.62" g0="0.576" b0="0.545"/>
+        <color id="complement-3" nr="3" rgb="61544B" r="97" g="84" b="75" r0="0.38" g0="0.329" b0="0.294"/>
+        <color id="complement-4" nr="4" rgb="47382D" r="71" g="56" b="45" r0="0.278" g0="0.22" b0="0.176"/>
+    </colorset>
+</palette>

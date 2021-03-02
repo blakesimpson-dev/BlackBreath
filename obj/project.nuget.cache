@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "blxACvcjFEC1y5UgytiR91NhXrDvbtkZR9AiLQNeBKPzsgGaCV2bempQWgc1yr/qxAxtnjETqmg/0PAyBhOYAw==",
+  "success": true,
+  "projectFilePath": "F:\\Repositories\\BlackBreath\\BlackBreath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blake\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net48\\1.0.0\\microsoft.netframework.referenceassemblies.net48.1.0.0.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\monogame.framework.windowsdx\\3.8.0.1375-develop\\monogame.framework.windowsdx.3.8.0.1375-develop.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\sadconsole.core\\2.5.0\\sadconsole.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\sharpdx\\4.0.1\\sharpdx.4.0.1.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\sharpdx.direct2d1\\4.0.1\\sharpdx.direct2d1.4.0.1.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\sharpdx.direct3d11\\4.0.1\\sharpdx.direct3d11.4.0.1.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\sharpdx.direct3d9\\4.0.1\\sharpdx.direct3d9.4.0.1.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\sharpdx.dxgi\\4.0.1\\sharpdx.dxgi.4.0.1.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\sharpdx.mathematics\\4.0.1\\sharpdx.mathematics.4.0.1.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\sharpdx.mediafoundation\\4.0.1\\sharpdx.mediafoundation.4.0.1.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\sharpdx.xaudio2\\4.0.1\\sharpdx.xaudio2.4.0.1.nupkg.sha512",
+    "C:\\Users\\blake\\.nuget\\packages\\sharpdx.xinput\\4.0.1\\sharpdx.xinput.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

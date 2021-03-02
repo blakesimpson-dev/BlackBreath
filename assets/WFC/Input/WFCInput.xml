@@ -1,0 +1,4 @@
+<samples>
+  <overlapping name="Input-01" N="3" periodic="True" width="80" height="48" screenshots="1" />
+  <overlapping name="Input-02" N="3" periodic="True" width="80" height="48" screenshots="1" />
+</samples>

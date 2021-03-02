@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Repositories\\BlackBreath\\BlackBreath.csproj": {}
+  },
+  "projects": {
+    "F:\\Repositories\\BlackBreath\\BlackBreath.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Repositories\\BlackBreath\\BlackBreath.csproj",
+        "projectName": "BlackBreath",
+        "projectPath": "F:\\Repositories\\BlackBreath\\BlackBreath.csproj",
+        "packagesPath": "C:\\Users\\blake\\.nuget\\packages\\",
+        "outputPath": "F:\\Repositories\\BlackBreath\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\blake\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.8"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net4.8",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net4.8",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            },
+            "MonoGame.Framework.WindowsDX": {
+              "target": "Package",
+              "version": "[3.8.0.1375-develop, )"
+            },
+            "SadConsole.Core": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
